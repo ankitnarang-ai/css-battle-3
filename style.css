@@ -1,0 +1,28 @@
+.container{
+width: 0px; 
+  height: 0px; 
+  border-left: 250px solid transparent;
+  border-right: 250px solid transparent;
+  
+  border-bottom: 200px solid #009244;
+  top:10%;
+  position: absolute;
+}
+.container1{
+    width: 0px; 
+      height: 0px; 
+      border-left: 250px solid transparent;
+      border-right: 250px solid transparent;
+      
+      border-bottom: 200px solid #E6E6E6;
+      position:absolute;
+      top:18%;
+    }
+    .container2{
+        width: 0px; 
+          height: 0px; 
+          border-left: 250px solid transparent;
+          border-right: 250px solid transparent;
+          
+          border-bottom: 200px solid #FF7200;
+        }
